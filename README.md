@@ -2,7 +2,7 @@
 - 👀 I’m interested in cretea project open source end collaboration whit this
 - 🌱 I'm live in Manaus AM, brazil
 - 💞️ I’m CEO and CTO EAZY  NETWORKS
-- 📫 @commuty_dev twitter
+- 📫 @commuty_dev twitter | linkedin "Daniel Anderson "
 - Developer Full Stack 
 
 <!---
